@@ -21,5 +21,5 @@
 ### Third method (Copy table to (database.table)):
 - Go to the table which you want to backup .
 - Click on **Operation** option above.
-- Go to te Copy table to (database.table) section
-  <img src ="/home/rakib/Desktop/2023-12-03_12-12.png">
+- Go to te Copy table to (database.table) section and from here table can be created and copied.
+
