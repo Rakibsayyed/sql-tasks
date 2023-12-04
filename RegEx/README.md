@@ -22,5 +22,5 @@
 
 ###### Above query selects all SKUs from the catalog_product_entity table where the sku column ends with the digit 1. The REGEXP operator is used to match the regular expression '[1]$', which matches a single character at the end of the string that is equal to the digit 1.
 
-##### Reference to Study for RegEx : https://www.javatpoint.com/mysql-regular-expressions 
+##### Resources for learning regular expressions (RegEx) : https://www.javatpoint.com/mysql-regular-expressions 
 
